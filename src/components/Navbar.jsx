@@ -25,9 +25,7 @@ function Navbar() {
           Classes
         </NavLink>
 
-        <NavLink to="/booking">
-          My Booking
-        </NavLink>
+        <NavLink to="/my-bookings">My Booking</NavLink>
       </nav>
 
       <Link to="/classes" className="nav-cta">

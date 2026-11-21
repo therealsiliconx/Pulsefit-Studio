@@ -83,7 +83,7 @@ function ClassDetails() {
             {fitnessClass.availableSpots} spots currently available
           </div>
 
-          <Link to="/booking" className="button-primary detail-book-button">
+          <Link to={`/booking/${fitnessClass.id}`} className="button-primary detail-book-button">
             Continue to Booking <ArrowUpRight size={18} />
           </Link>
         </div>
