@@ -25,3 +25,6 @@ npm run dev
 npm test
 npm run build
 Folder Structure & Key Files
+
+Deployed Website link: https://pulsefitstudio.vercel.app/
+Public Github Repository Link: https://github.com/therealsiliconx/Pulsefit-Studio
